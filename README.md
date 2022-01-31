@@ -1,7 +1,7 @@
 
 # Discord Buttonlu Patlatma/Nuke Sistemi
 
-Umarım işinize yarar. **[Herhangi Bir Sorunda Discord 'dan Ulaş lucâsciâ#1247 veya schâwn wonéy#1247'e ulaşabilirsin.]**
+Umarım işinize yarar. **[Herhangi Bir Sorunda Discord 'dan Ulaş lucâsty.#1247 veya schâwn#1247'e ulaşabilirsin.]**
 
 # 1. Button Sistemi
 **`-` Bu sistem sayesinde sunucuyu daha kolay patlatabilir veya olumlu amaçlar yönünde kullanabilirsin.**
